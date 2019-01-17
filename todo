@@ -1,0 +1,16 @@
+✔ show a map in mobile format @done(19-01-17 14:38)
+✔ call the API (usign the static location) @done(19-01-17 14:59)
+✔ format the data to get location, name, current temperature @done(19-01-17 15:00)
+✔ show the marker in the map @done(19-01-17 15:19)
+✔ make a pop up @done(19-01-17 15:23)
+✔ clustering @done(19-01-17 15:23)
+✔ change to use current location @done(19-01-17 15:31)
+- Set better view
+- clean the code
+
+
+✔ show the geochart @done(19-01-17 15:50)
+- get the data
+- format the data to the geochart format
+- show it
+- color it
